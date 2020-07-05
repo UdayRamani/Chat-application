@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652012506953",
+    "firebase_url": "https://arcard-cd8b7.firebaseio.com",
+    "project_id": "arcard-cd8b7",
+    "storage_bucket": "arcard-cd8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652012506953:android:377c0feb1ffc09eb635498",
+        "android_client_info": {
+          "package_name": "com.example.familychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652012506953-a4cuttff0o7kes3fqshafg4ubv4il3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2NtqIs_uwSgL72r9ToK6v3lnrjaIR01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652012506953-a4cuttff0o7kes3fqshafg4ubv4il3m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
